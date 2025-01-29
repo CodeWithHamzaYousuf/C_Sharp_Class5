@@ -1,0 +1,14 @@
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\bin\Debug\net8.0\Class And Objects.exe
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\bin\Debug\net8.0\Class And Objects.deps.json
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\bin\Debug\net8.0\Class And Objects.runtimeconfig.json
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\bin\Debug\net8.0\Class And Objects.dll
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\bin\Debug\net8.0\Class And Objects.pdb
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.AssemblyInfoInputs.cache
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.AssemblyInfo.cs
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.csproj.CoreCompileInputs.cache
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.dll
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\refint\Class And Objects.dll
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.pdb
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\Class And Objects.genruntimeconfig.cache
+C:\Users\lab1pc9\Music\Hamza\Class And Objects\Class And Objects\obj\Debug\net8.0\ref\Class And Objects.dll
